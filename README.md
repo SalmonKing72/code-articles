@@ -5,3 +5,4 @@ a list of links to articles with interesting content and quick reference materia
 * [Git Superpowers](https://increment.com/open-source/more-productive-git/?utm_medium=email&utm_source=topic+optin&utm_campaign=awareness&utm_content=20190810+prog+nl&mkt_tok=eyJpIjoiTVdRM01UazRNakprWm1JeSIsInQiOiJOejBRNGZIanVEc3AzU0dGd1lIdHBhZStUeGdwUmRIY05KUGdZY0FmUkNzcDJcL3BPaURyWDZyT3Q4UlpxdTUrWVRjcmpLeUZHam53ZVwvY1ZPalV1c2hsMVp5aWFwT2xwNWNoTHhvMjhUNExUSXJxMzJQWVwvMWYxQllHRXRMSnlzcSJ9)
 * [synology backups](https://www.ceos3c.com/cloud/synology-nas-glacier-backup-ultimate-guide/)
 * [update maven dependencies](https://www.baeldung.com/maven-dependency-latest-version)
+* [spring react app](https://spring.io/guides/tutorials/react-and-spring-data-rest/)
